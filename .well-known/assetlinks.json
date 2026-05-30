@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.clown_studio.twa",
+    "sha256_cert_fingerprints": ["BF:E9:51:D9:09:69:6A:93:82:A4:C0:BA:8B:4B:D8:12:CF:BC:40:D1:3A:04:C7:23:F5:CE:F5:03:4A:15:F7:B9"]
+  }
+}]
